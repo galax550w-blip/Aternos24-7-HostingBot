@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "seriez.aternos.me",
+    "port":53371,
     "version": "",
     "try-creative": false
   },
